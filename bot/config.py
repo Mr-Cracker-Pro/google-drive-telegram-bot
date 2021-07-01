@@ -3,8 +3,8 @@ class config:
     APP_ID = "3210366"
     API_HASH = "503fd6c05c43a77cd3e203962ef66e13"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "1590556866"
+    SUDO_USERS = "1590556866" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/82e7JhSmEH1kZDE1"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "606890950168-ranh41r1s2absach6mcs4i08bmpmvb0t.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "LtFTTRcoAuDG4T40_oy8eQA6"
