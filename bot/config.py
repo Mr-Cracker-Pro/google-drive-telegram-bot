@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "1823969882:AAEAP3H_zqWaB931jsr8pXltzXRbZxwkP6w"
+    APP_ID = "3210366"
+    API_HASH = "503fd6c05c43a77cd3e203962ef66e13"
     DATABASE_URL = ""
     SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "1590556866"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
